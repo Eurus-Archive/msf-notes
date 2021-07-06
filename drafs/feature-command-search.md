@@ -161,4 +161,4 @@ Search implementation draft
 - Design a info schema
 - Refactoring Phinx Module Base Class record module info, Instead of using string records in the code
 - Add reload/load: load module info from module into metainfo 
-- Add find: load module info from module into metainfo 
+- Add find: search module info from metainfo or cache load from metainfo.
