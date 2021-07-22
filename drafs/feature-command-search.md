@@ -60,7 +60,7 @@ load from cache
 ```
 
 if cache return else load
-```
+```ruby
 #Msf::Modules::Metadata::Cache#get_metadata
   #
   #  Returns the module data cache, but first ensures all the metadata is loaded
